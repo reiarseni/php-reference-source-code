@@ -1579,7 +1579,8 @@ namespace my;
 class MyClass {}
 ?>
 <html><body></body></html>
- 
+```
+```php  
 // Nested namespaces
 namespace my\sub;
 class MyClass {} // my\sub\MyClass
@@ -1592,7 +1593,8 @@ namespace my
 ?>
 <html><body></body></html>
 <?php }?>
- 
+```
+```php  
 // Namespaced code
 namespace my
 {
