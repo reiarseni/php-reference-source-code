@@ -1,2 +1,2 @@
 # php-reference-source-code
-Quick PHP reference using examples. 
+Quick PHP reference using only source code examples. 
